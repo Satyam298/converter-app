@@ -28,7 +28,7 @@ The project consists of several key components:
 To use the Video to MP3 Converter, follow these steps:
 
 1. Clone the project repository:
-git clone https://github.com/your-username/video-to-mp3-converter.git
+```[git clone https://github.com/Satyam298](https://github.com/Satyam298/converter-app.git)```
 
 2. Install the required dependencies for each service.
 
