@@ -43,6 +43,11 @@ https://github.com/Satyam298/converter-app.git
 
 7. Monitor the progress and receive notifications once the conversions are complete.
 
+![Screenshot 2023-09-21 22:21:38](https://github.com/Satyam298/converter-app/assets/79797786/188a905f-262b-4128-9a1a-f3ece2106ead)
+![Screenshot 2023-09-21 22:20:42](https://github.com/Satyam298/converter-app/assets/79797786/0ff537b5-01c7-4701-a023-5c084b386222)
+![Screenshot 2023-09-21 22:21:16](https://github.com/Satyam298/converter-app/assets/79797786/8ead2106-3de1-4ca7-8f7d-0ec37cb0e19b)
+
+
 ## Contributing
 
 Contributions to this project are welcome. If you encounter issues or have suggestions for improvements, please open an issue or submit a pull request.
